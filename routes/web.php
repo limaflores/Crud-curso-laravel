@@ -69,3 +69,4 @@ Route::group(['middleware'=>'auth'],function(){
     //Construção do crud. Acrescentar o método deletar.
     Route::get('/admin/cursos/deletar/{id}', ['as'=>'admin.cursos.deletar', 'uses'=>'Admin\CursoController@deletar']);
 });
+//Edição de teste.
