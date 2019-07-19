@@ -9,7 +9,7 @@
       <table>
         <thead>
           <tr>
-            <th>Id</th>
+       <!-- <th>Id</th> -->
             <th>Título</th>
             <th>Descrição</th>
             <th>Imagem</th>
